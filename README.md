@@ -8,7 +8,10 @@ I graduated with a bachelor's degree in Electrical and Electronic Engineering at
 
 *   🌍  I'm based in Trang ,Thailand ---\[ can relocate in \]
 *   🖥️  See my portfolio at [ariJourney](http://my_diary.com)
-*   ✉️  You can contact me at [Arisa.Keawsuan@gmail.com](mailto:Arisa.Keawsuan@gmail.com )### Skills 
+*   ✉️  You can contact me at [Arisa.Keawsuan@gmail.com](mailto:Arisa.Keawsuan@gmail.com )
+
+Skills 
+--------------------------------------
 <p align="left">
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
 <a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a>
