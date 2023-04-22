@@ -4,9 +4,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 I'm looking for a React Developer jobs
 --------------------------------------
 
-I graduated with a bachelor's degree in Electrical and Electronic Engineering at Kasetsart University, but I've always been interested in React Developers, so I practiced by doing projects because I believe that " Learning is doing " .
-
-*   🌍  I'm based in Trang ,Thailand ---\[ can relocate in \]
+I graduated with a bachelor's degree in Electrical and Electronic Engineering , but I've always been interested in Coding 
+*   🌍  I'm based in Thailand 
 *   🖥️  See my portfolio at [ariJourney](http://my_diary.com)
 *   ✉️  You can contact me at [Arisa.Keawsuan@gmail.com](mailto:Arisa.Keawsuan@gmail.com )
 
