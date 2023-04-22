@@ -5,9 +5,9 @@ I'm looking for a React Developer jobs
 --------------------------------------
 
 I graduated with a bachelor's degree in Electrical and Electronic Engineering , but I've always been interested in Coding 
-*   🌍  I'm based in Thailand 
-*   🖥️  See my portfolio at [ariJourney](http://my_diary.com)
-*   ✉️  You can contact me at [Arisa.Keawsuan@gmail.com](mailto:Arisa.Keawsuan@gmail.com )
+*   🌍  Thailand 
+*   🖥️  My-works :  [ariJourney](http://my_diary.com)
+*   ✉️  E-mail : [Arisa.Keawsuan@gmail.com](mailto:Arisa.Keawsuan@gmail.com )
 
 Skills 
 --------------------------------------
