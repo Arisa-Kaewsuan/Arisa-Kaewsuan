@@ -6,8 +6,8 @@ I've done a mini project with java, react, react-native
 
 See my project below . . .
 *   🌍  Thailand 
-*   🖥️  See-myworks on website :  [my portfolio]([http://my_diary.com](https://portfolio-p4l27ehh7-arisa-kaewsuan.vercel.app/))
-*   ✉️  E-mail : [Arisa.Keawsuan@gmail.com](mailto:Arisa.Keawsuan@gmail.com )
+*   🖥️  See-myworks on website :  [my portfolio](https://portfolio-p4l27ehh7-arisa-kaewsuan.vercel.app/)
+*   ✉️  E-mail : [Arisa.Keawsuan@gmail.com](mailto:Arisa.Keawsuan@gmail.com)
 
 Skills 
 --------------------------------------
