@@ -1,10 +1,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Arisa Kaewsuan
 ======================================================================================================================================
 
-I'm looking for a React Developer jobs
+I've done a mini project with java, react, react-native
 --------------------------------------
 
-I graduated with a bachelor's degree in Electrical and Electronic Engineering , but I've always been interested in Coding 
+See my project below . . .
 *   🌍  Thailand 
 *   🖥️  See-myworks :  [ariJourney](http://my_diary.com)
 *   ✉️  E-mail : [Arisa.Keawsuan@gmail.com](mailto:Arisa.Keawsuan@gmail.com )
