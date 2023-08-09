@@ -1,13 +1,35 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Arisa Kaewsuan
+Hi &nbsp;![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)&nbsp;I &nbsp;am &nbsp;Arisa &nbsp;Kaewsuan.
 ======================================================================================================================================
+   - &nbsp; I &nbsp;am &nbsp;interested &nbsp;in &nbsp;AI Engineer. 
+    
+   - &nbsp; I &nbsp;started &nbsp;with &nbsp;basic &nbsp;training &nbsp;in &nbsp;Software &nbsp;Development &nbsp;with &nbsp;Java and &nbsp;Python.
+     
+   - &nbsp; I &nbsp;have &nbsp;knowledge &nbsp;in &nbsp;web &nbsp;programming. &nbsp;I &nbsp;can &nbsp;use &nbsp;HTML , &nbsp;CSS , &nbsp;JavaScript , &nbsp;PHP , &nbsp;MySQL , &nbsp;SQL.
 
-I've done a mini project with java, react, react-native
+   - &nbsp; I &nbsp;have &nbsp;knowledge &nbsp;in &nbsp;Data &nbsp;Engineer : Python , SQL , Spark , Pandas , ETL
+    
+   - &nbsp; Now &nbsp;looking &nbsp;for &nbsp;a &nbsp;Java &nbsp;developer &nbsp;job &nbsp;to &nbsp;improve &nbsp;my &nbsp;programming &nbsp;skills &nbsp;prepare &nbsp;for &nbsp;learn &nbsp;more &nbsp;about &nbsp;AI.
+
+<br/>
+
+What &nbsp;have &nbsp;I &nbsp;been &nbsp;practicing &nbsp;?
 --------------------------------------
+🧠 &nbsp; **Foundations &nbsp;of &nbsp;Programming**
+  -  &nbsp; Data  &nbsp;Structure
+  -  &nbsp; Algorithm
+  -  &nbsp; Basic &nbsp;Programming &nbsp;:&nbsp; String / Read - Write File / Loop / Condition ( If - else )
+  -  &nbsp; OOP
+  -  &nbsp; GUI
+  -  &nbsp; Web &nbsp;Programming 
+    
+<br/>
 
-See my project below . . .
-*   🌍  Thailand 
-*   🖥️  See-myworks on website :  [my portfolio](https://portfolio-p4l27ehh7-arisa-kaewsuan.vercel.app/)
-*   ✉️  E-mail : [Arisa.Keawsuan@gmail.com](mailto:Arisa.Keawsuan@gmail.com)
+👩‍💻 &nbsp; **Practice**
+  -  &nbsp; Java &nbsp;Exercise 
+  -  &nbsp; Python &nbsp;Exercise 
+  -  &nbsp; PHP &nbsp;Exercise
+
+<br/>
 
 Skills 
 --------------------------------------
