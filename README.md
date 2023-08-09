@@ -1,6 +1,6 @@
 Hi &nbsp;![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)&nbsp;I &nbsp;am &nbsp;Arisa &nbsp;Kaewsuan.
 ======================================================================================================================================
-   - &nbsp; I &nbsp;am &nbsp;interested &nbsp;in &nbsp;AI Engineer. 
+   - &nbsp; I &nbsp;am &nbsp;at &nbsp;entry &nbsp;level . &nbsp;I &nbsp;want &nbsp;to &nbsp;develop &nbsp;my &nbsp;programming &nbsp;skills &nbsp;for &nbsp;a &nbsp;career. &nbsp;I &nbsp;am &nbsp;particularly &nbsp;interested &nbsp;in &nbsp;AI &nbsp;Engineer.
     
    - &nbsp; I &nbsp;started &nbsp;with &nbsp;basic &nbsp;training &nbsp;in &nbsp;Software &nbsp;Development &nbsp;with &nbsp;Java and &nbsp;Python.
      
