@@ -17,7 +17,7 @@ What &nbsp;have &nbsp;I &nbsp;been &nbsp;practicing &nbsp;?
 🧠 &nbsp; **Foundations &nbsp;of &nbsp;Programming**
   -  &nbsp; Data  &nbsp;Structure &nbsp;:&nbsp;[Data Structure with Java](https://github.com/Arisa-Kaewsuan/Datastructure_Java)
   -  &nbsp; Algorithm
-  -  &nbsp; Basic &nbsp;Programming &nbsp;:&nbsp; String / Read - Write File / Loop / Condition ( If - else )
+  -  &nbsp; Basic &nbsp;Programming &nbsp;:&nbsp; 
   -  &nbsp; OOP 
   -  &nbsp; GUI &nbsp;:&nbsp;
   -  &nbsp; Web &nbsp;Programming  &nbsp;:&nbsp; mini_cms project &nbsp;&nbsp; php_2048_game project
