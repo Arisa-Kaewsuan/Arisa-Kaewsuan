@@ -26,7 +26,7 @@ What &nbsp;have &nbsp;I &nbsp;been &nbsp;practicing &nbsp;?
 
 👩‍💻 &nbsp; **Practice**
   -  &nbsp; Java &nbsp;Exercise 
-  -  &nbsp; Python &nbsp;Exercise 
+  -  &nbsp; [Python &nbsp;Exercise](https://github.com/Arisa-Kaewsuan/Python_Tutorial/tree/main) 
   -  &nbsp; PHP &nbsp;Exercise
 
 <br/>
