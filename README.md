@@ -15,12 +15,14 @@ Hi &nbsp;![](https://user-images.githubusercontent.com/18350557/176309783-078594
 What &nbsp;have &nbsp;I &nbsp;been &nbsp;practicing &nbsp;?
 --------------------------------------
 🧠 &nbsp; **Foundations &nbsp;of &nbsp;Programming**
-  -  &nbsp; Data  &nbsp;Structure &nbsp;:&nbsp; [Data Structure with Java](https://github.com/Arisa-Kaewsuan/Datastructure_Java)
+  -  &nbsp; Data  &nbsp;Structure &nbsp;:&nbsp;[Data Structure with Java](https://github.com/Arisa-Kaewsuan/Datastructure_Java)
   -  &nbsp; Algorithm
   -  &nbsp; Basic &nbsp;Programming &nbsp;:&nbsp; String / Read - Write File / Loop / Condition ( If - else )
-  -  &nbsp; OOP
-  -  &nbsp; GUI
-  -  &nbsp; Web &nbsp;Programming 
+  -  &nbsp; OOP 
+  -  &nbsp; GUI &nbsp;:&nbsp;
+  -  &nbsp; Web &nbsp;Programming  &nbsp;:&nbsp; mini_cms project &nbsp;&nbsp; php_2048_game project
+  -  &nbsp; Networking &nbsp;:&nbsp; java_chat project
+  -  &nbsp; Database Design &nbsp;:&nbsp; java_mk project
     
 <br/>
 
