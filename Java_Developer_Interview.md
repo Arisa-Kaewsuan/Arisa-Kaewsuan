@@ -77,8 +77,16 @@
   
       -  Override  คือ  method ที่ชื่อ และ parameter เหมือนกัน แต่ทำงานต่างกัน เพราะ เรา override มันมาเขียนใหม่
   <br/>
+
+- ช่วยอธิบายหน่อยว่า Abstraction คืออะไร ?
+
+        L
+
+  <br/>
   
 - ช่วยอธิบายหน่อยว่า Polymorphism คืออะไร ?
+
+        L
   
 
 <br/><br/><br/>
