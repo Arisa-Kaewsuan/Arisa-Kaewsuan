@@ -5,7 +5,7 @@
     
   - วิธีใช้ github ในด้านอื่นๆ  &nbsp;:&nbsp; เช่น ควร commit หรือ push ตอนไหน ? &nbsp;/&nbsp; เขียน README ยังไง ?
     
-  - คำศัพท์ต่างๆ ในบทความนี้
+  - คำศัพท์ต่างๆ ในบทความนี้ อ่านได้ในพาร์ท Everything about Git you should know
 
 
 <br/><br/>
