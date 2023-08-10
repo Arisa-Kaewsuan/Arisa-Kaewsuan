@@ -31,7 +31,7 @@ What &nbsp;have &nbsp;I &nbsp;been &nbsp;practicing &nbsp;?
   -  &nbsp; [Java &nbsp;Exercise](https://github.com/Arisa-Kaewsuan/Java_Tutorial) 
   -  &nbsp; [Python &nbsp;Exercise](https://github.com/Arisa-Kaewsuan/Python_Tutorial/tree/main) 
   -  &nbsp; [PHP &nbsp;Exercise](https://github.com/Arisa-Kaewsuan/PHP_Exercise)
-  -  &nbsp; [SQL &nbsp;Exercise]()
+  -  &nbsp; [SQL &nbsp;Exercise](https://github.com/Arisa-Kaewsuan/SQL_Exercises)
 
 <br/>
 
