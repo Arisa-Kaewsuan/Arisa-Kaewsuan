@@ -10,7 +10,7 @@
      
 
           1.  เปิด Gitbash หรือ cmd อย่างใดอย่างนึงขึ้นมา เปิดได้หลายวิธี เช่น
-                 -  เปิดจาก vscode : ctrl + j เปิด terminal ขึ้นมา  >>  กด + จะใช้เป็น Gitbash / command prompt ก็ได้
+                 -  เปิดจาก vscode : ctrl + j เปิด terminal ขึ้นมา  >>  กด(+)เลือกว่าจะใช้เป็น Gitbash/ command prompt ก็ได้
                  -  เปิดจากหน้า desktop : window + r  >>  พิมพ์ cmd  เปิด command line (cmd) ขึ้นมา
 
 
@@ -78,19 +78,19 @@
 
                      ขั้นตอนต่อไปจะมาพูดถึงการใช้งาน  Github  ในด้านอื่นๆ  เช่น 
      
-                       -  แล้วเราควร commit ตอนไหน ควร push ตอนไหน
-                       -  contribute คืออะไร ?
-                       -  วิธีหา opensource code เจ๋งๆ มาอ่าน มาฝึก / วิธีฝึก coding skill ด้วย github
-                       -  git  status  คืออะไร  ใช้ตอนไหน ? 
-                       -  git  fork คืออะไร ใช้ตอนไหน ?
-                       -  git  clone คืออะไร ใช้ตอนไหน ?
-                       -  merge คืออะไร ?
-                       -  conflict คืออะไร ?
-                       -  pull request คืออะไร ใช้ตอนไหน ?
-                       -  git branch / git checkout คืออะไร ใช้ตอนไหน ?
-                       -  git pull กับ git fetch ต่างกันยังไง ?  
-                       -  ตกแต่ง github profile ให้เป็นเหมือน portfolio เก็บผลงานไว้สมัครงานยังไง ?
-                       -  ใช้ README.md เป็นเหมือน blog เขียนบทความ ทำยังไง เพิ่มรูปในไฟล์ readme ยังไง ?
+                       [/]  แล้วเราควร commit ตอนไหน ควร push ตอนไหน ?
+                       [-]  contribute คืออะไร ?
+                       [-]  วิธีหา opensource code เจ๋งๆ มาอ่าน มาฝึก / วิธีฝึก coding skill ด้วย github
+                       [-]  git  status  คืออะไร  ใช้ตอนไหน ? 
+                       [-]  git  fork คืออะไร ใช้ตอนไหน ?
+                       [-]  git  clone คืออะไร ใช้ตอนไหน ?
+                       [-]  merge คืออะไร ?
+                       [-]  conflict คืออะไร ?
+                       [-]  pull request คืออะไร ใช้ตอนไหน ?
+                       [-]  git branch / git checkout คืออะไร ใช้ตอนไหน ?
+                       [-]  git pull กับ git fetch ต่างกันยังไง ?  
+                       [-]  ตกแต่ง github profile ให้เป็นเหมือน portfolio เก็บผลงานไว้สมัครงานยังไง ?
+                       [-]  ใช้ README.md เป็นเหมือน blog เขียนบทความ ทำยังไง เพิ่มรูปในไฟล์ readme ยังไง ?
 <br/>
 
 -    แล้วเราควร commit ตอนไหน หรือ ควร push ตอนไหน ?
@@ -108,8 +108,25 @@
          อะไรบ้าง เราจะไล่ทำไปทีละ function  เมื่อทำในแต่ละ Function เสร็จสามารถ Run ได้ถึงจะ Commit โดยต้องเขียน Commit Message ให้เข้าใจ
          ได้ง่ายแล้วก็จะทำการ push  ถึงจะไปทำ Function ต่อไป วนแบบนี้ไปเรื่อยๆ จน Feature นั้นเสร็จ
 
-              โดยการ commit และ push ที่ไม่ใช่การ commit หรือ push ครั้งแรก จะมีขั้นตอนดังนี้ 
+              โดยการ commit และ push ที่ไม่ใช่การ commit หรือ push ครั้งแรกแบบที่ทำข้างบน จะมีขั้นตอนดังนี้
+         สามารถทำได้หลายวิธี ถ้าใช้ vscode สามารถกด commit โดยข้ามขั้นตอน git add ได้แล้วกด push ถ้ามี conflict ก็กด pull ก่อนแล้วค่อย
+         push อีกรอบ แต่ในบทความนี้จะนำเสนอวิธีพื้นฐาน คือ การใช้ git command ดังนี้
+          1.  เปิด cmd/git bash  แล้ว cd ไปยังโปรเจค
+          2.  ใช้ git command ตามนี้
+               git add *
+               git commit -m " ข้อความเตือนความจำว่าเปลี่ยนอะไรไป "
+               git push - u origin
 
+
+               อ่าน log ดูว่าขึ้น error อย่าง [ error: failed to push some refs to ] มั้ย error นี้เกิดขึ้นเมื่อมีเพื่อน หรือคนในทีม remote
+               โปรเจคนั้นไปแก้ แล้ว push ขึ้นบน github โค้ดโปรเจคบนเครื่องของเรา กับ บน github จึงเกิด conflict ขึ้น มีวิธีแก้ ดังนี้
+     
+               git fetch  :  ให้ใช้คำสั่งนี้ ดึงcode มาpreview ดูว่า Local และ Remote มีความแตกต่างกันหรือไม่ บอกว่า Local เท่ากัน, ใหม่กว่า
+                             หรือล้าสมัยกว่า Remote อยู่กี่ commit ก่อนที่จะตัดสินใจว่าจะ pull มามั้ย อาจต้องมีการพูดคุยกับคนในทีมด้วย
+     
+               git pull  :  เป็นการดึงโค้ดโปรแกรมที่มีการเปลี่ยนแปลงล่าสุดจาก Remote มายัง Local เพื่อเอามาแก้ไขต่อ
+
+               เมื่อ pull มาแก้ไข Run ได้สำเร็จแล้วก็วนกลับไปทำเหมือนเดิม คือ git add >> git commit >> git push
 
 
 
@@ -150,7 +167,9 @@
 
    -  commit file / backup file
 
-   -  Terminal / ssh / cmd / command line / shell / command prompt / bash script คืออะไร ?
+   -  log คืออะไร ?
+
+   -  Terminal / ssh / cmd / command line / shell / command prompt / bash script / git command คืออะไร ?
 
            ทั้งหมดมีความหมายเหมือนกัน คือ เป็น cmd เหมือนกัน
 
