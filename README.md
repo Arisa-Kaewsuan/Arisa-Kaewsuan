@@ -16,13 +16,13 @@ What &nbsp;have &nbsp;I &nbsp;been &nbsp;practicing &nbsp;?
 --------------------------------------
 🧠 &nbsp; **Foundations &nbsp;of &nbsp;Programming**
   -  &nbsp; Data  &nbsp;Structure &nbsp;:&nbsp;[Data Structure with Java](https://github.com/Arisa-Kaewsuan/Datastructure_Java)
-  -  &nbsp; Algorithm
+  -  &nbsp; Algorithm &nbsp;:&nbsp;
   -  &nbsp; Basic &nbsp;Programming &nbsp;:&nbsp; 
-  -  &nbsp; OOP 
+  -  &nbsp; OOP &nbsp;:&nbsp;
   -  &nbsp; GUI &nbsp;:&nbsp;
-  -  &nbsp; Web &nbsp;Programming  &nbsp;:&nbsp; mini_cms project &nbsp;&nbsp; php_2048_game project
-  -  &nbsp; Networking &nbsp;:&nbsp; java_chat project
-  -  &nbsp; Database Design &nbsp;:&nbsp; java_mk project
+  -  &nbsp; Web &nbsp;Programming  &nbsp;:&nbsp; 
+  -  &nbsp; Networking &nbsp;:&nbsp; 
+  -  &nbsp; Database Design &nbsp;:&nbsp; 
   -  &nbsp; Version Control &nbsp;:&nbsp; [GitHub](https://github.com/Arisa-Kaewsuan/Arisa-Kaewsuan/blob/main/useGitHub.md)
     
 <br/>
