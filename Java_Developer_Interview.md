@@ -47,12 +47,9 @@
   
 - Override  vs  Overloading คืออะไร เหมือนหรือต่างกันยังไง ?
 
-      -  Overloading  คือ  Class ที่มีชื่อ method เหมือนหรือซ้ำกัน แต่ parameter ไม่เหมือนกัน
-         >> เกิดจากการที่คลาสลูก extend class แม่มาแก้ method ที่มีอยู่  เรียกการทำแบบนี้ได้ว่า " Polymorphism "
+      -  Overloading  คือ  method ที่ชื่อเหมือนกัน แต่ parameter ต่างกัน
   
-      -  Override  คือ  Class ที่มีชื่อ method เหมือนหรือซ้ำกัน แต่ parameter ไม่เหมือนกัน
-         >>  เกิดจากการที่คลาสลูก extend class แม่มา  แล้วแก้ method ที่มีอยู่ มันรับ parameter เหมือนเดิม แต่ทำงานต่างจากเดิม
-             เรียกการทำแบบนี้ได้ว่า " inheritance (คุณสมบัติการสืบทอด) "
+      -  Override  คือ  method ที่ชื่อ และ parameter เหมือนกัน แต่ทำงานต่างกัน เพราะ เรา override มันมาเขียนใหม่
   <br/>
   
 - ช่วยอธิบายหน่อยว่า Polymorphism คืออะไร ?
