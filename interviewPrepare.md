@@ -7,4 +7,5 @@
 
 # 👩‍💻 Project  &nbsp;Idea
 - #### [Arduino](https://projecthub.arduino.cc/)
+- #### [วิธีหาไอเดีบทำ Project จบสาย Computer Engineer / Electrical Engineer](https://www.youtube.com/watch?v=hgreOL7dgIA)
       
