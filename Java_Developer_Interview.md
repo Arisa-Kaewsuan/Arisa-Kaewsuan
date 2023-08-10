@@ -1,6 +1,6 @@
 # Java  Developer  Interview 🚀
 ### CONTENTS
-    [-]  Java OOP
+    [/]  Java OOP
     [-]  Java Data Structure and Algorithm
     [-]  Java GUI
     [-]  Java Web Programming
