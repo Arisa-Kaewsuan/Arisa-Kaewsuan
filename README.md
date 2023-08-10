@@ -8,7 +8,7 @@ Hi &nbsp;![](https://user-images.githubusercontent.com/18350557/176309783-078594
 
    - &nbsp; I &nbsp;have &nbsp;knowledge &nbsp;in &nbsp;Data &nbsp;Engineer : Python , SQL , Spark , Pandas , ETL
     
-   - &nbsp; Now &nbsp;looking &nbsp;for &nbsp;a &nbsp;Java &nbsp;developer &nbsp;job &nbsp;to &nbsp;improve &nbsp;my &nbsp;programming &nbsp;skills &nbsp;prepare &nbsp;for &nbsp;learn &nbsp;more &nbsp;about &nbsp;AI.
+   - &nbsp; Now &nbsp;looking &nbsp;for &nbsp;a &nbsp;Java &nbsp;developer &nbsp;job &nbsp;to &nbsp;improve &nbsp;my &nbsp;programming &nbsp;skills &nbsp;prepare &nbsp;for &nbsp;learn &nbsp;more &nbsp;about &nbsp;AI. [🔗](https://github.com/Arisa-Kaewsuan/Arisa-Kaewsuan/blob/main/interviewPrepare.md)
 
 <br/>
 
