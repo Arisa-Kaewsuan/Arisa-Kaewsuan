@@ -5,7 +5,7 @@
     
   - วิธีใช้ github ในด้านอื่นๆ  &nbsp;:&nbsp; เช่น ควร commit หรือ push ตอนไหน ? &nbsp;/&nbsp; เขียน README ยังไง ?  &nbsp;อ่านได้ในพาร์ท&nbsp; "&nbsp; [Github Advanced](https://github.com/Arisa-Kaewsuan/Arisa-Kaewsuan/blob/main/advanceGitHub.md) &nbsp;"
     
-  - คำศัพท์ต่างๆ ในบทความนี้ อ่านได้ในพาร์ท &nbsp;"&nbsp; Everything about Git taht you should know &nbsp;"
+  - คำศัพท์ต่างๆ ในบทความนี้ รวมไว้ในพาร์ท &nbsp;"&nbsp; Index &nbsp;"
 
 
 <br/><br/>
@@ -104,7 +104,7 @@
 
 <br/><br/><br/>
 
-# 💬 &nbsp; Everything  &nbsp;about &nbsp;Git  &nbsp;that  &nbsp;you  &nbsp;should  &nbsp;know
+# 💬 &nbsp; Index
 
    -  github repo / github repository / repo / repository cloud / web github คืออะไร ?
 
@@ -116,14 +116,20 @@
           คือ พื้นที่สำหรับเก็บ ไฟล์โค้ดโปรเจคต่างๆ ของเราบนเครื่องคอมพิวเตอร์ของเรา
 
    -  git life cycle หรือ git flow คืออะไร / git ทำงานยังไง ?
+
+           คือ วงจรการทำงานของ git
      
    -  UI กับ GUI ต่าง หรือเหมือนกันยังไง ?
+
+           UI = GUI
 
    -  Directory คืออะไร ?
 
            directory = folder
       
    -  editor / IDE
+
+           editer = IDE = library = Framework คือ tool ที่รวมสภาพแวดล้อมในการพัฒนา
 
    -  git คืออะไร ?
 
@@ -136,7 +142,11 @@
 
    -  commit file / backup file
 
+            commit file = backup file
+
    -  log คืออะไร ?
+
+            ข้อความ debug ที่แสดงใน command line 
 
    -  Terminal / ssh / cmd / command line / shell / command prompt / bash script / git command คืออะไร ?
 
