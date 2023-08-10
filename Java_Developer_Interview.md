@@ -71,7 +71,7 @@
   
 - Override  vs  Overloading คืออะไร เหมือนหรือต่างกันยังไง ?
 
-      -  Overloading  คือ  method ที่ชื่อเหมือนกัน แต่ parameter ต่างกัน
+      -  Overloading  คือ  method ที่ชื่อเหมือนกัน แต่ parameter ต่างกัน ทำงานเหมือนกัน แต่รับ parameter ต่างกัน
   
       -  Override  คือ  method ที่ชื่อ และ parameter เหมือนกัน แต่ทำงานต่างกัน เพราะ เรา override มันมาเขียนใหม่
   <br/>
