@@ -11,7 +11,7 @@
 <br/><br/><br/>
 
 ## [JAVA OOP](http://programmingbright.com/blog/?page=3)
-- ช่วยอธิบายหน่อยว่า OOP คืออะไร ประกอบไปด้วยอะไรบ้าง  แล้วมันดียังไง ?
+- ช่วยอธิบายหน่อยว่า [OOP](https://www.youtube.com/watch?v=OZH7TBoKyks&t=1739s) คืออะไร ประกอบไปด้วยอะไรบ้าง  แล้วมันดียังไง ?
 
       OOP คือ concept ที่มองทุกอย่างเป็น object (class) ออบเจ็บหนึ่งอย่างจะประกอบไปด้วย 2 ส่วน คือ
   
