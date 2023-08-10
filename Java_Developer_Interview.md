@@ -1,12 +1,12 @@
 # Java  Developer  Interview 🚀
 ### CONTENTS
-  -  Java OOP
-  -  Java Data Structure and Algorithm
-  -  Java GUI
-  -  Java Web Programming
-  -  Java Database
-  -  Java Network
-  -  Java Mobile Programming
+    [-]  Java OOP
+    [-]  Java Data Structure and Algorithm
+    [-]  Java GUI
+    [-]  Java Web Programming
+    [-]  Java Database
+    [-]  Java Network
+    [-]  Java Mobile Programming
 
 <br/><br/><br/>
 
