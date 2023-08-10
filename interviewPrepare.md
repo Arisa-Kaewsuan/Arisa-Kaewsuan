@@ -1,10 +1,3 @@
-# 💬 Interview  &nbsp;Question
--  #### Back - End  &nbsp;Developer  &nbsp;Position
--  #### Front - End  &nbsp;Developer  &nbsp;Position
--  #### [Java  &nbsp;Developer  &nbsp;Position](https://github.com/Arisa-Kaewsuan/Arisa-Kaewsuan/blob/main/Java_Developer_Interview.md)
-
-<br/>
-
 # 👩‍💻 Project  &nbsp;Idea
 - [Arduino](https://projecthub.arduino.cc/) , [arduino project](https://www.youtube.com/watch?v=07DjCVraBf0&list=PLHTcHcuaQSqjge49d4pezx9RQaioOdseC)
 - [OOP & Web](https://code-projects.org/) , [EPT](https://expert-programming-tutor.com/example_project.php)
