@@ -47,15 +47,13 @@
 
             คือ การกำหนดการเข้าถึงด้วย modifier โดยจะประกาศ modifier ไว้หน้า class  method หรือ variables มีทั้งหมด 3 แบบ
   
-      1.  public  :  ถ้าประกาศ public หน้า class  method หรือ variables ไหน แปลว่า class อื่นๆสามารถนำ class  method
-                     หรือ variables นั้นไปใช้ได้อย่างอิสระ
+      1.  public  :  class อื่น สามารถเรียกใช้ class  method หรือ variables ที่ระบุเป็น public นี้ได้
       
-      2.  protected – ถ้าประกาศ public หน้า method หรือ variables ไหน แปลว่า class อื่นๆไม่สามารถนำ method
-                      หรือ variables นั้นไปใช้ได้ มีแค่ class เดียวกัน package เดียวกัน และ คลาสที่ inherit กัน เท่านั้นที่ใช้ได้
+      2.  protected : class อื่น ไม่สามารถเรียกใช้ class  method หรือ variables นี้ได้ มีแค่ class เดียวกัน และ คลาสที่ inherit กัน
+                      เท่านั้นที่ใช้ได้
                       # จะเห็นว่า protected กับ private ไม่สามารถใช้ประกาศหน้า class ได้
      
-      3.  private – จะปิดการเข้าถึงจากภายนอกทั้งหมด (ใช้กับ recursive ฟังก์ชัน) ถ้าประกาศ private หน้า method หรือ variables
-                    ไหน แปลว่า class อื่นๆไม่สามารถนำ method หรือ variables นั้นไปใช้ ไปแก้ไขได้
+      3.  private : method และ variables ที่ระบุเป็น private จะใช้ได้แค่ภายในคลาสนี้
   <br/>
   
 - ช่วยอธิบายหน่อยว่า  Inheritance คืออะไร ?
