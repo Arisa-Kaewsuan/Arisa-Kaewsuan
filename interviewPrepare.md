@@ -8,6 +8,6 @@
 # 👩‍💻 Project  &nbsp;Idea
 - #### [Arduino](https://projecthub.arduino.cc/)
 - #### [OOP & Web](https://code-projects.org/)
-- #### [วิธีวางแผน Project (Project Planning)](https://www.youtube.com/watch?v=LzmZyeXnIcc)
+- #### [วิธีวางแผน Project ( Project Planning )](https://www.youtube.com/watch?v=LzmZyeXnIcc)
 - #### [วิธีหาไอเดีบทำ Project จบสาย Computer Engineer / Electrical Engineer](https://www.youtube.com/watch?v=hgreOL7dgIA)
       
