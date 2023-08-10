@@ -8,13 +8,14 @@
   -  Java Network
   -  Java Mobile Programming
 
-<br/>
+<br/><br/><br/>
 
 ## [JAVA OOP](http://programmingbright.com/blog/?page=3)
 - ช่วยอธิบายหน่อยว่า OOP คืออะไร ประกอบไปด้วยอะไรบ้าง  แล้วมันดียังไง ?
 
             คือ concept ที่ประกอบไปด้วยหลักการ 4 อย่าง คือ encapsulation, abstraction, inheritance และ Polymorphism
       OOP ทำให้เราสามารถเขียนโค้ดที่สะอาดตาอ่านง่าย และบำรุงรักษาง่าย
+  <br/>
   
 - ช่วยอธิบายหน่อยว่า Encapsolution คืออะไร ?
 
@@ -29,6 +30,7 @@
      
       3.  private – จะปิดการเข้าถึงจากภายนอกทั้งหมด (ใช้กับ recursive ฟังก์ชัน) ถ้าประกาศ private หน้า method หรือ variables
                     ไหน แปลว่า class อื่นๆไม่สามารถนำ method หรือ variables นั้นไปใช้ ไปแก้ไขได้
+  <br/>
   
 - ช่วยอธิบายหน่อยว่า  Inheritance คืออะไร ?
 
@@ -39,33 +41,34 @@
       -  class ที่ถูก extend สืบทอดคุณสมบัติ(method และ variables) ไปใช้ ว่า " superclass หรือ parentclass คือ คลาสแม่"
       -  และ class ที่ extend สืบทอดคุณสมบัติ(method และ variables) มาใช้ ว่า " subclass หรือ childclass คือ คลาสลูก"
 
-  ในภาษา java ใช้ syntax ```class [subclass] extends [superclass] { }``` เช่น ```class BoxWeight extends Box { }```
+  > ในภาษา java ใช้ syntax ```class [subclass] extends [superclass] { }``` เช่น ```class BoxWeight extends Box { }```
+  <br/>
   
 - Override คืออะไร ?
   
 - ช่วยอธิบายหน่อยว่า Polymorphism คืออะไร ?
   
 
-<br/>
+<br/><br/><br/>
 
 ## JAVA DATA STRUCTURE & ALGORITHM
 
-<br/>
+<br/><br/><br/>
 
 ## JAVA GUI
 
-<br/>
+<br/><br/><br/>
 
 ## JAVA WEB PROGRAMMING
 
-<br/>
+<br/><br/><br/>
 
 ## JAVA DATABASE
 
-<br/>
+<br/><br/><br/>
 
 ## JAVA NETWORK
 
-<br/>
+<br/><br/><br/>
 
 ## JAVA MOBILE PROGRAMMING
