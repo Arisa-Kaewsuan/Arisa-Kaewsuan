@@ -45,10 +45,14 @@
   > ในภาษา java ใช้ syntax ```class [subclass] extends [superclass] { }``` เช่น ```class BoxWeight extends Box { }```
   <br/>
   
-- Override คืออะไร ?
+- Override  vs  Overloading คืออะไร เหมือนหรือต่างกันยังไง ?
 
-            คือ การแก้ไข method ที่สืบทอดมาจากคลาสแม่ โดยที่ method นั้นต้องมีชื่อ และ รับพารามิเตอร์เหมือนกันกับ method ที่สืบทอด
-      มาจาก class แม่
+      -  Overloading  คือ  Class ที่มีชื่อ method เหมือนหรือซ้ำกัน แต่ parameter ไม่เหมือนกัน
+         >> เกิดจากการที่คลาสลูก extend class แม่มาแก้ method ที่มีอยู่  เรียกการทำแบบนี้ได้ว่า " Polymorphism "
+  
+      -  Override  คือ  Class ที่มีชื่อ method เหมือนหรือซ้ำกัน แต่ parameter ไม่เหมือนกัน
+         >>  เกิดจากการที่คลาสลูก extend class แม่มา  แล้วแก้ method ที่มีอยู่ มันรับ parameter เหมือนเดิม แต่ทำงานต่างจากเดิม
+             เรียกการทำแบบนี้ได้ว่า " inheritance (คุณสมบัติการสืบทอด) "
   <br/>
   
 - ช่วยอธิบายหน่อยว่า Polymorphism คืออะไร ?
