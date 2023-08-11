@@ -3,7 +3,7 @@
 - [OOP & Web](https://code-projects.org/) , [EPT](https://expert-programming-tutor.com/example_project.php)
 - [Python AI](https://www.facebook.com/borntodev/posts/3489478914443710/)
 - [วิธีวางแผน Project ( Project Planning )](https://www.youtube.com/watch?v=LzmZyeXnIcc)
-- [วิธีหาไอเดีบทำ Project จบสาย Computer Engineer / Electrical Engineer](https://www.youtube.com/watch?v=hgreOL7dgIA)
+- [วิธีหาไอเดียทำ Project จบสาย Computer Engineer / Electrical Engineer](https://www.youtube.com/watch?v=hgreOL7dgIA)
 
 <br/>
 
