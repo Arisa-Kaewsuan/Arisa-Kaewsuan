@@ -12,6 +12,7 @@
 - [EPT](https://expert-programming-tutor.com/tutorial/article/MT001_Artificial_Intelligence.php)
 - [Deep Learning AI](https://www.deeplearning.ai/)
 - [How to be AI Engineer](https://www.youtube.com/watch?app=desktop&v=YqPPtW-B79o)
+- Cours Syllabus &nbsp;:&nbsp; [simplilearn](https://www.simplilearn.com/)
 
 <br/>
 
