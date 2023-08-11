@@ -4,6 +4,7 @@
 - [Python AI](https://www.facebook.com/borntodev/posts/3489478914443710/)
 - [วิธีวางแผน Project ( Project Planning )](https://www.youtube.com/watch?v=LzmZyeXnIcc)
 - [วิธีหาไอเดียทำ Project จบสาย Computer Engineer / Electrical Engineer](https://www.youtube.com/watch?v=hgreOL7dgIA)
+- [Github Generater](https://github.com/topics/profile-readme-generator)
 
 <br/>
 
