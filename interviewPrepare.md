@@ -11,6 +11,7 @@
 # ⚡️ AI  &nbsp;Learnning  &nbsp;Resources
 : &nbsp;&nbsp; รวมแหล่งข้อมูลไว้ศึกษาเกี่ยวกับ AI
 - [EPT](https://expert-programming-tutor.com/tutorial/article/MT001_Artificial_Intelligence.php)
+- [IBM Technology](https://www.ibm.com/thought-leadership/)
 - [ข่าวสารเกี่ยวกับ AI ภาษาไทย](https://learn-ai.in.th/home?utm_source=google&utm_medium=sem&utm_campaign=p2p&gclid=Cj0KCQjwuNemBhCBARIsADp74QS8iohVyeZtLHztYOn4HYi3aEg-_CnGETh_noZftCYRj1TkBFTdVsUaAlHxEALw_wcB)
 - [รวมคอร์ส AI น่าสนใจ](https://fortune.com/education/articles/here-are-5-free-ai-classes-you-can-take-online-from-top-tech-firms-universities/)
 - [MIT free course](https://www.edx.org/learn/machine-learning/massachusetts-institute-of-technology-machine-learning-with-python-from-linear-models-to-deep-learning?utm_medium=partner-marketing&utm_source=sem&utm_campaign=mitx&utm_term=machine%20learning&utm_content=mm-ds-fl23-aw-b&gclid=Cj0KCQjwuNemBhCBARIsADp74QTfXTRyphJ_DPCrsW7JS8h6K8bkPqzk5Vzknm8d8tkRe9LVBCijVDcaAloOEALw_wcB)
