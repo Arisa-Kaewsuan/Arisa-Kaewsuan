@@ -11,6 +11,8 @@
 # ⚡️ AI  &nbsp;Learnning  &nbsp;Resources
 : &nbsp;&nbsp; รวมแหล่งข้อมูลไว้ศึกษาเกี่ยวกับ AI
 - [EPT](https://expert-programming-tutor.com/tutorial/article/MT001_Artificial_Intelligence.php)
+- [เว็บอะไรไม่รู้แต่มีลิ้งไปเว็บเจ๋งๆดี](https://www.changeexpectations.org/code-org)
+- [AI Scratch course](https://aigolearning.org/ai002scratchai/)
 - [IBM Technology](https://www.ibm.com/thought-leadership/)
 - [ข่าวสารเกี่ยวกับ AI ภาษาไทย](https://learn-ai.in.th/home?utm_source=google&utm_medium=sem&utm_campaign=p2p&gclid=Cj0KCQjwuNemBhCBARIsADp74QS8iohVyeZtLHztYOn4HYi3aEg-_CnGETh_noZftCYRj1TkBFTdVsUaAlHxEALw_wcB)
 - [รวมคอร์ส AI น่าสนใจ](https://fortune.com/education/articles/here-are-5-free-ai-classes-you-can-take-online-from-top-tech-firms-universities/)
