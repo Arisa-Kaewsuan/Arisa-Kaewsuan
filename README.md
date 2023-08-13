@@ -1,6 +1,6 @@
 Hi &nbsp;![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)&nbsp;I &nbsp;am &nbsp;Arisa &nbsp;Kaewsuan.
 ======================================================================================================================================
-I &nbsp;want &nbsp;to &nbsp;develop &nbsp;my &nbsp;programming &nbsp;skills &nbsp;for &nbsp;a &nbsp;career. [🔗](https://github.com/Arisa-Kaewsuan/Arisa-Kaewsuan/blob/main/interviewPrepare.md)
+I &nbsp;want &nbsp;to &nbsp;develop &nbsp;my &nbsp;programming &nbsp;skills . [🔗](https://github.com/Arisa-Kaewsuan/Arisa-Kaewsuan/blob/main/interviewPrepare.md)
 
 <br/>
 
