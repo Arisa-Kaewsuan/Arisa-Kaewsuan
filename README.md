@@ -1,14 +1,6 @@
 Hi &nbsp;![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)&nbsp;I &nbsp;am &nbsp;Arisa &nbsp;Kaewsuan.
 ======================================================================================================================================
-   - &nbsp; I &nbsp;am &nbsp;at &nbsp;entry &nbsp;level . &nbsp;I &nbsp;want &nbsp;to &nbsp;develop &nbsp;my &nbsp;programming &nbsp;skills &nbsp;for &nbsp;a &nbsp;career. &nbsp;I &nbsp;am &nbsp;particularly &nbsp;interested &nbsp;in &nbsp;AI &nbsp;Engineer.
-    
-   - &nbsp; I &nbsp;started &nbsp;with &nbsp;basic &nbsp;training &nbsp;in &nbsp;Software &nbsp;Development &nbsp;with &nbsp;Java and &nbsp;Python.
-     
-   - &nbsp; I &nbsp;have &nbsp;knowledge &nbsp;in &nbsp;web &nbsp;programming. &nbsp;I &nbsp;can &nbsp;use &nbsp;HTML , &nbsp;CSS , &nbsp;JavaScript , &nbsp;PHP , &nbsp;MySQL , &nbsp;SQL.
-
-   - &nbsp; I &nbsp;have &nbsp;knowledge &nbsp;in &nbsp;Data &nbsp;Engineer : Python , SQL , Spark , Pandas , ETL
-    
-   - &nbsp; Now &nbsp;looking &nbsp;for &nbsp;a &nbsp;Java &nbsp;developer &nbsp;job &nbsp;to &nbsp;improve &nbsp;my &nbsp;programming &nbsp;skills &nbsp;prepare &nbsp;for &nbsp;learn &nbsp;more &nbsp;about &nbsp;AI. [🔗](https://github.com/Arisa-Kaewsuan/Arisa-Kaewsuan/blob/main/interviewPrepare.md)
+&nbsp; I &nbsp;am &nbsp;at &nbsp;entry &nbsp;level . &nbsp;I &nbsp;want &nbsp;to &nbsp;develop &nbsp;my &nbsp;programming &nbsp;skills &nbsp;for &nbsp;a &nbsp;career. &nbsp;I &nbsp;am &nbsp;particularly &nbsp;interested &nbsp;in &nbsp;AI &nbsp;Engineer.[🔗](https://github.com/Arisa-Kaewsuan/Arisa-Kaewsuan/blob/main/interviewPrepare.md)
 
 <br/>
 
