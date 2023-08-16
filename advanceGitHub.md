@@ -1,7 +1,6 @@
 # 🧠 &nbsp;GitHub &nbsp;Advanced
 
 ### Contents
-        [/]  รวม emoji ตกแต่ง github :)
         [/]  แล้วเราควร commit ตอนไหน ควร push ตอนไหน ?
         [/]  developer ใช้ github ทำอะไรบ้าง ต้องรู้อะไรบ้าง ?
         [/]  contribute คืออะไร ?
@@ -19,13 +18,6 @@
 
 <br/><br/><br/>
 
--    รวม emoji ตกแต่ง github :)
-
-                🔗🚀👩‍💻🧠👯‍♀️🤔💬😄📫 ⚡️🛠👋 
-
-                🪄 🦄 🍣 🔥 🏝️ ✨ 👀 ✔ 👟 🤭 ‼️ 📦 🙏🥰
-
-                🏗 ❤️ ⚠️ 👍 🔍 🤝 🕵️‍♂️ 👩🏼‍💻 📚 🍭  ⭐️ 🌱 ☕
 
 -    แล้วเราควร commit ตอนไหน หรือ ควร push ตอนไหน ?
 
