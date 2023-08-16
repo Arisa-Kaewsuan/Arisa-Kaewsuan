@@ -27,6 +27,7 @@
 # 👨🏾‍💻 Security Resources
 - [cyfence](https://www.cyfence.com/article/what-is-firewall/)
 - [pantip](https://pantip.com/topic/35831039)
+- [dek-d](https://www.dek-d.com/board/view/1295516/)
 - [wikifx](https://www.wikifx.com/th/newsdetail/202106115614981153.html)
 - [longtunman](https://www.longtunman.com/45117)
 - [brandthink](https://www.brandthink.me/content/hacker-20000)
