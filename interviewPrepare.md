@@ -10,6 +10,7 @@
 
 # ⚡️ AI  &nbsp;Learnning  &nbsp;Resources
 : &nbsp;&nbsp; รวมแหล่งข้อมูลไว้ศึกษาเกี่ยวกับ AI
+- [geeksforgeeks](https://www.geeksforgeeks.org/machine-learning/?ref=shm_outind)
 - [EPT](https://expert-programming-tutor.com/tutorial/article/MT001_Artificial_Intelligence.php)
 - [เว็บอะไรไม่รู้แต่มีลิ้งไปเว็บเจ๋งๆดี](https://www.changeexpectations.org/code-org)
 - [AI Scratch course](https://aigolearning.org/ai002scratchai/)
