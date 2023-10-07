@@ -2,11 +2,11 @@
 
 ### Welcome &nbsp;to &nbsp;my &nbsp;repository . [🌱](https://github.com/Arisa-Kaewsuan/Arisa-Kaewsuan/blob/main/interviewPrepare.md)
 
-<br/><br/>
+<br/>
 
-What &nbsp;have &nbsp;I &nbsp;been &nbsp;practicing &nbsp;?
+What &nbsp;do &nbsp;I &nbsp;do &nbsp;?
 --------------------------------------
-🧠 &nbsp; **Foundations &nbsp;of &nbsp;Programming**
+🧠 &nbsp; **Learn &nbsp;Foundations &nbsp;of &nbsp;Programming**
   -  &nbsp; Data  &nbsp;Structure &nbsp;:&nbsp;[Data Structure with Java](https://github.com/Arisa-Kaewsuan/Datastructure_Java)
   -  &nbsp; Algorithm &nbsp;:&nbsp;
   -  &nbsp; Basic &nbsp;Programming &nbsp;:&nbsp; 
@@ -25,9 +25,9 @@ What &nbsp;have &nbsp;I &nbsp;been &nbsp;practicing &nbsp;?
   -  &nbsp; [PHP &nbsp;Exercise](https://github.com/Arisa-Kaewsuan/PHP_Exercise)
   -  &nbsp; [SQL &nbsp;Exercise](https://github.com/Arisa-Kaewsuan/SQL_Exercises)
 
-<br/><br/>
+<br/>
 
-Skills 
+Skills &nbsp;I &nbsp;get &nbsp;from &nbsp;practice
 --------------------------------------
 <p align="left">
 <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
