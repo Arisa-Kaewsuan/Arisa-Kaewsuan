@@ -10,7 +10,7 @@ What &nbsp;do &nbsp;I &nbsp;do &nbsp;?
   -  &nbsp; Data  &nbsp;Structure &nbsp;:&nbsp;[Data Structure with Java](https://github.com/Arisa-Kaewsuan/Datastructure_Java)
   -  &nbsp; Algorithm &nbsp;:&nbsp;
   -  &nbsp; Basic &nbsp;Programming &nbsp;:&nbsp; 
-  -  &nbsp; OOP &nbsp;:&nbsp; [Java_OOP_Project](https://github.com/Arisa-Kaewsuan/Java_OOP_Project)
+  -  &nbsp; OOP &nbsp;:&nbsp; 
   -  &nbsp; GUI &nbsp;:&nbsp;
   -  &nbsp; Web &nbsp;Programming  &nbsp;:&nbsp; 
   -  &nbsp; Networking &nbsp;:&nbsp; 
