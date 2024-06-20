@@ -12,6 +12,16 @@ I make this as a repository of knowledge that I can return to at any time. &nbsp
 
 - &nbsp; Python &nbsp;&nbsp;:&nbsp;&nbsp; Short Notes &nbsp;+&nbsp; Exercise &nbsp;+&nbsp; Projects
 
+&nbsp;
+  
+![eclipse](https://github.com/Arisa-Kaewsuan/Arisa-Kaewsuan/assets/87797742/65bfcce0-55c3-413d-b878-2337ac9b5a77) &nbsp;
+![Git](https://github.com/Arisa-Kaewsuan/Arisa-Kaewsuan/assets/87797742/3f6848a5-5b44-442b-9951-bf2808ed9c15) &nbsp;
+![java](https://github.com/Arisa-Kaewsuan/Arisa-Kaewsuan/assets/87797742/ac37149f-9bd3-47ab-8d51-df74a5901faa) &nbsp;
+![MariaDB](https://github.com/Arisa-Kaewsuan/Arisa-Kaewsuan/assets/87797742/51cc6959-34a1-4cb7-a41e-83fdbdf4ff79) &nbsp;
+![python](https://github.com/Arisa-Kaewsuan/Arisa-Kaewsuan/assets/87797742/ada0ccf1-cdd1-43cb-a67c-bc45e173fbd6) &nbsp;
+
+<br/>
+<br/>
 <br/>
 
 #### If &nbsp;you &nbsp;interested &nbsp;in &nbsp;" Web Developer " &nbsp;I &nbsp;have . . .
@@ -22,6 +32,20 @@ I make this as a repository of knowledge that I can return to at any time. &nbsp
 
 - &nbsp; Full-Stack &nbsp;&nbsp;:&nbsp;&nbsp; Short Notes &nbsp;+&nbsp; Exercise &nbsp;+&nbsp; Projects
 
+&nbsp;
+
+![HTML](https://github.com/Arisa-Kaewsuan/Arisa-Kaewsuan/assets/87797742/540f3040-63ac-44ed-aa0f-983fc8f887de)
+![CSS](https://github.com/Arisa-Kaewsuan/Arisa-Kaewsuan/assets/87797742/1ae96dd8-3885-4256-b3de-56d05f4ac5cf) &nbsp;
+![js](https://github.com/Arisa-Kaewsuan/Arisa-Kaewsuan/assets/87797742/0010c509-73b0-4481-8d74-f1a866ca17f4) &nbsp;
+![TS](https://github.com/Arisa-Kaewsuan/Arisa-Kaewsuan/assets/87797742/645952fc-6646-4882-a8b5-1d08afd60245) &nbsp;
+![React JS](https://github.com/Arisa-Kaewsuan/Arisa-Kaewsuan/assets/87797742/70e22b0b-32a8-4cf9-8331-6ebbc54f1da7) &nbsp;
+![maxresdefault](https://github.com/Arisa-Kaewsuan/Arisa-Kaewsuan/assets/87797742/106d3bd9-fa5c-4fc2-8787-56fa9b3a6523) &nbsp;
+![Node JS](https://github.com/Arisa-Kaewsuan/Arisa-Kaewsuan/assets/87797742/3d713a67-7e98-40ff-a035-de10be8d4cec) &nbsp;
+![vscode](https://github.com/Arisa-Kaewsuan/Arisa-Kaewsuan/assets/87797742/497b7ca7-a0c7-4778-834a-bb8a818b761c) &nbsp;&nbsp;
+![django](https://github.com/Arisa-Kaewsuan/Arisa-Kaewsuan/assets/87797742/582688fb-8a6d-4fef-a544-3480c0b43f38)
+
+<br/>
+<br/>
 <br/>
 
 #### If &nbsp;you &nbsp;interested &nbsp;in &nbsp;" Mobile Application Developer " &nbsp;I &nbsp;have . . .
@@ -32,6 +56,14 @@ I make this as a repository of knowledge that I can return to at any time. &nbsp
 
 - &nbsp; Flutter &nbsp;&nbsp;:&nbsp;&nbsp; Short Notes &nbsp;+&nbsp; Exercise &nbsp;+&nbsp; Projects
 
+&nbsp;
+
+![kotlin](https://github.com/Arisa-Kaewsuan/Arisa-Kaewsuan/assets/87797742/8761883e-70f7-4466-8d54-579cfc5a4035) &nbsp;
+![react-native](https://github.com/Arisa-Kaewsuan/Arisa-Kaewsuan/assets/87797742/9aad5403-17c8-4e5c-b923-de8d9a506881)
+![flutter](https://github.com/Arisa-Kaewsuan/Arisa-Kaewsuan/assets/87797742/3b1731fe-81d5-4666-b5d0-ea683b07c449)
+
+<br/>
+<br/>
 <br/>
 
 #### If &nbsp;you &nbsp;interested &nbsp;in &nbsp;" Data Science " &nbsp;I &nbsp;have . . .
@@ -43,6 +75,14 @@ I make this as a repository of knowledge that I can return to at any time. &nbsp
 - &nbsp; Data Analyst &nbsp;&nbsp;:&nbsp;&nbsp; Short Notes &nbsp;+&nbsp; Exercise &nbsp;+&nbsp; Projects
   
 - &nbsp; ML Engineer &nbsp;&nbsp;:&nbsp;&nbsp; Short Notes &nbsp;+&nbsp; Exercise &nbsp;+&nbsp; Projects
+
+&nbsp;
+
+![colab](https://github.com/Arisa-Kaewsuan/Arisa-Kaewsuan/assets/87797742/3399dc5b-c7cb-4375-acf0-c1daaf655094)
+![numpy](https://github.com/Arisa-Kaewsuan/Arisa-Kaewsuan/assets/87797742/ced3a036-3161-4c1a-8118-b3eb79a138bd) &nbsp;&nbsp;
+![python2](https://github.com/Arisa-Kaewsuan/Arisa-Kaewsuan/assets/87797742/cda51b13-d695-4c82-9b20-841c39839b70) &nbsp;&nbsp;
+![scikit](https://github.com/Arisa-Kaewsuan/Arisa-Kaewsuan/assets/87797742/4a85bb10-f135-45e9-acf6-09acd2ea660b) &nbsp;
+![tensorflow](https://github.com/Arisa-Kaewsuan/Arisa-Kaewsuan/assets/87797742/c557444a-194b-41f2-9c6a-9a549280b01b)
 
 <br/>
 
