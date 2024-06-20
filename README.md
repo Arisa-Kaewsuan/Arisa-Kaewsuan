@@ -68,11 +68,11 @@ I make this as a repository of knowledge that I can return to at any time. &nbsp
 
 #### If &nbsp;you &nbsp;interested &nbsp;in &nbsp;" Data Science " &nbsp;I &nbsp;have . . .
 
-- &nbsp; Data Engineer &nbsp;&nbsp;:&nbsp;&nbsp; Short Notes &nbsp;+&nbsp; Exercise &nbsp;+&nbsp; Projects 
+- &nbsp; Data Engineer &nbsp;&nbsp;:&nbsp;&nbsp; Short Notes &nbsp;+&nbsp; Exercise 
 
-- &nbsp; Data Science &nbsp;&nbsp;:&nbsp;&nbsp; Short Notes &nbsp;+&nbsp; Exercise &nbsp;+&nbsp; Projects
+- &nbsp; Data Science &nbsp;&nbsp;:&nbsp;&nbsp; Short Notes &nbsp;+&nbsp; Exercise 
 
-- &nbsp; Data Analyst &nbsp;&nbsp;:&nbsp;&nbsp; Short Notes &nbsp;+&nbsp; Exercise &nbsp;+&nbsp; Projects
+- &nbsp; Data Analyst &nbsp;&nbsp;:&nbsp;&nbsp; Short Notes &nbsp;+&nbsp; Exercise 
   
 - &nbsp; ML Engineer &nbsp;&nbsp;:&nbsp;&nbsp; Short Notes &nbsp;+&nbsp; Exercise &nbsp;+&nbsp; Projects
 
