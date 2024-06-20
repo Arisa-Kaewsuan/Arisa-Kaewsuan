@@ -1,6 +1,6 @@
+# Welcome &nbsp;To &nbsp;My &nbsp;Repository 
 
-
-### Welcome &nbsp;to &nbsp;my &nbsp;repository . [🌱](https://github.com/Arisa-Kaewsuan/Arisa-Kaewsuan/blob/main/interviewPrepare.md)
+I make this as a repository of knowledge that I can return to at any time. And I'm very pleased if this is helpful to others.
 
 <br/>
 
