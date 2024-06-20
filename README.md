@@ -35,17 +35,17 @@ I make this as a repository of knowledge that I can return to at any time. &nbsp
 
 &nbsp;
 
-![HTML](https://github.com/Arisa-Kaewsuan/Arisa-Kaewsuan/assets/87797742/3634e650-ebb4-4b6a-b07b-55a9eee7c630)
-![CSS](https://github.com/Arisa-Kaewsuan/Arisa-Kaewsuan/assets/87797742/846d6b06-c1f9-4235-83b6-0780db1d819a)
+![pngwing com](https://github.com/Arisa-Kaewsuan/Arisa-Kaewsuan/assets/87797742/b2bc5f90-f664-4f26-b904-0c6865ffce44)
+![pngwing com (1)](https://github.com/Arisa-Kaewsuan/Arisa-Kaewsuan/assets/87797742/5aeb40f0-4ac8-4179-b85e-8387751f80b4)
 ![Javascript](https://github.com/Arisa-Kaewsuan/Arisa-Kaewsuan/assets/87797742/190e39f6-3c1d-437b-b641-9ea1684e674f)
 ![React JS](https://github.com/Arisa-Kaewsuan/Arisa-Kaewsuan/assets/87797742/59c1961f-0096-4557-9562-81d9af9b32a6)
-![Next JS](https://github.com/Arisa-Kaewsuan/Arisa-Kaewsuan/assets/87797742/d869810a-2b2a-4858-9e24-a7afd0c13805)
-![Tailwind](https://github.com/Arisa-Kaewsuan/Arisa-Kaewsuan/assets/87797742/4890cdf2-9fed-4570-ab1a-d66abb732a5f) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-![PHP](https://github.com/Arisa-Kaewsuan/Arisa-Kaewsuan/assets/87797742/0e08166c-d3f4-4644-a389-8178762c2e40)
+![Next JS](https://github.com/Arisa-Kaewsuan/Arisa-Kaewsuan/assets/87797742/72ceea84-6536-427d-b8e8-2367f0b6849e)
+![Tailwind](https://github.com/Arisa-Kaewsuan/Arisa-Kaewsuan/assets/87797742/12cafd71-41a3-43fb-b0ce-697e35f5b941) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+![pngwing com (3)](https://github.com/Arisa-Kaewsuan/Arisa-Kaewsuan/assets/87797742/2bdd1f6c-d5d9-42fa-b4c8-741fc93db198)
 ![Node JS](https://github.com/Arisa-Kaewsuan/Arisa-Kaewsuan/assets/87797742/b87a8cb3-ad31-4d18-9e40-1d21a4c3669c) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 ![MariaDB](https://github.com/Arisa-Kaewsuan/Arisa-Kaewsuan/assets/87797742/4aba869a-c8f3-4d51-9c68-42e744457901) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 ![VSCode](https://github.com/Arisa-Kaewsuan/Arisa-Kaewsuan/assets/87797742/7a2af9d9-d5ee-41ae-9394-3d24988888fc) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-![Github](https://github.com/Arisa-Kaewsuan/Arisa-Kaewsuan/assets/87797742/82b4abee-cc60-4a09-b76d-2322aebb1204)
+![github1](https://github.com/Arisa-Kaewsuan/Arisa-Kaewsuan/assets/87797742/3b37c0fe-e991-49bf-949c-8d46ff218d19)
 
 <br/>
 <br/>
