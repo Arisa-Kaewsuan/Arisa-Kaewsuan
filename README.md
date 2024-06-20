@@ -50,11 +50,11 @@ I make this as a repository of knowledge that I can return to at any time. &nbsp
 
 #### If &nbsp;you &nbsp;interested &nbsp;in &nbsp;" Mobile Application Development " &nbsp;I &nbsp;have . . .
 
-- &nbsp; Kotlin &nbsp;&nbsp;:&nbsp;&nbsp; Short Notes &nbsp;+&nbsp; Exercise &nbsp;+&nbsp; Projects 
+- &nbsp; Kotlin &nbsp;&nbsp;:&nbsp;&nbsp; Short Notes &nbsp;+&nbsp; Projects 
 
-- &nbsp; React-Native &nbsp;&nbsp;:&nbsp;&nbsp; Short Notes &nbsp;+&nbsp; Exercise &nbsp;+&nbsp; Projects
+- &nbsp; React-Native &nbsp;&nbsp;:&nbsp;&nbsp; Short Notes &nbsp;+&nbsp; Projects
 
-- &nbsp; Flutter &nbsp;&nbsp;:&nbsp;&nbsp; Short Notes &nbsp;+&nbsp; Exercise &nbsp;+&nbsp; Projects
+- &nbsp; Flutter &nbsp;&nbsp;:&nbsp;&nbsp; Short Notes &nbsp;+&nbsp; Projects
 
 &nbsp;
 
