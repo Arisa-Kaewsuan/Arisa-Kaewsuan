@@ -42,10 +42,7 @@ I make this as a repository of knowledge that I can return to at any time. &nbsp
 ![Next JS](https://github.com/Arisa-Kaewsuan/Arisa-Kaewsuan/assets/87797742/72ceea84-6536-427d-b8e8-2367f0b6849e)
 ![Tailwind](https://github.com/Arisa-Kaewsuan/Arisa-Kaewsuan/assets/87797742/12cafd71-41a3-43fb-b0ce-697e35f5b941) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 ![pngwing com (3)](https://github.com/Arisa-Kaewsuan/Arisa-Kaewsuan/assets/87797742/2bdd1f6c-d5d9-42fa-b4c8-741fc93db198)
-![Node JS](https://github.com/Arisa-Kaewsuan/Arisa-Kaewsuan/assets/87797742/b87a8cb3-ad31-4d18-9e40-1d21a4c3669c) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-![MariaDB](https://github.com/Arisa-Kaewsuan/Arisa-Kaewsuan/assets/87797742/4aba869a-c8f3-4d51-9c68-42e744457901) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-![VSCode](https://github.com/Arisa-Kaewsuan/Arisa-Kaewsuan/assets/87797742/7a2af9d9-d5ee-41ae-9394-3d24988888fc) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-![github1](https://github.com/Arisa-Kaewsuan/Arisa-Kaewsuan/assets/87797742/3b37c0fe-e991-49bf-949c-8d46ff218d19)
+![Node JS](https://github.com/Arisa-Kaewsuan/Arisa-Kaewsuan/assets/87797742/b87a8cb3-ad31-4d18-9e40-1d21a4c3669c) 
 
 <br/>
 <br/>
