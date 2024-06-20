@@ -27,11 +27,11 @@ I make this as a repository of knowledge that I can return to at any time. &nbsp
 
 #### If &nbsp;you &nbsp;interested &nbsp;in &nbsp;" Web Development " &nbsp;I &nbsp;have . . .
 
-- &nbsp; Front-End &nbsp;&nbsp;:&nbsp;&nbsp; Short Notes &nbsp;+&nbsp; Exercise &nbsp;+&nbsp; Projects 
+- &nbsp; Front-End &nbsp;&nbsp;:&nbsp;&nbsp; Short Notes &nbsp;+&nbsp; Exercise 
 
-- &nbsp; Back-End &nbsp;&nbsp;:&nbsp;&nbsp; Short Notes &nbsp;+&nbsp; Exercise &nbsp;+&nbsp; Projects
+- &nbsp; Back-End &nbsp;&nbsp;:&nbsp;&nbsp; Short Notes &nbsp;+&nbsp; Exercise 
 
-- &nbsp; Full-Stack &nbsp;&nbsp;:&nbsp;&nbsp; Short Notes &nbsp;+&nbsp; Exercise &nbsp;+&nbsp; Projects
+- &nbsp; Full-Stack &nbsp;&nbsp;:&nbsp;&nbsp; Short Notes &nbsp;+&nbsp; Projects
 
 &nbsp;
 
