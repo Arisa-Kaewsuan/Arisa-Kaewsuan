@@ -6,7 +6,7 @@ I make this as a repository of knowledge that I can return to at any time. &nbsp
 
 ## What's &nbsp;in &nbsp;my &nbsp;repository &nbsp;?
 
-#### If &nbsp;you &nbsp;interested &nbsp;in &nbsp;" Software Developer " &nbsp;I &nbsp;have . . .
+#### If &nbsp;you &nbsp;interested &nbsp;in &nbsp;" Software Development " &nbsp;I &nbsp;have . . .
 
 - &nbsp; Java &nbsp;&nbsp;:&nbsp;&nbsp; Short Notes &nbsp;+&nbsp; Exercise &nbsp;+&nbsp; Projects 
 
@@ -24,7 +24,7 @@ I make this as a repository of knowledge that I can return to at any time. &nbsp
 <br/>
 <br/>
 
-#### If &nbsp;you &nbsp;interested &nbsp;in &nbsp;" Web Developer " &nbsp;I &nbsp;have . . .
+#### If &nbsp;you &nbsp;interested &nbsp;in &nbsp;" Web Development " &nbsp;I &nbsp;have . . .
 
 - &nbsp; Front-End &nbsp;&nbsp;:&nbsp;&nbsp; Short Notes &nbsp;+&nbsp; Exercise &nbsp;+&nbsp; Projects 
 
@@ -48,7 +48,7 @@ I make this as a repository of knowledge that I can return to at any time. &nbsp
 <br/>
 <br/>
 
-#### If &nbsp;you &nbsp;interested &nbsp;in &nbsp;" Mobile Application Developer " &nbsp;I &nbsp;have . . .
+#### If &nbsp;you &nbsp;interested &nbsp;in &nbsp;" Mobile Application Development " &nbsp;I &nbsp;have . . .
 
 - &nbsp; Kotlin &nbsp;&nbsp;:&nbsp;&nbsp; Short Notes &nbsp;+&nbsp; Exercise &nbsp;+&nbsp; Projects 
 
