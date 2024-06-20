@@ -14,11 +14,12 @@ I make this as a repository of knowledge that I can return to at any time. &nbsp
 
 &nbsp;
   
-![eclipse](https://github.com/Arisa-Kaewsuan/Arisa-Kaewsuan/assets/87797742/65bfcce0-55c3-413d-b878-2337ac9b5a77) &nbsp;
-![Git](https://github.com/Arisa-Kaewsuan/Arisa-Kaewsuan/assets/87797742/3f6848a5-5b44-442b-9951-bf2808ed9c15) &nbsp;
-![java](https://github.com/Arisa-Kaewsuan/Arisa-Kaewsuan/assets/87797742/ac37149f-9bd3-47ab-8d51-df74a5901faa) &nbsp;
-![MariaDB](https://github.com/Arisa-Kaewsuan/Arisa-Kaewsuan/assets/87797742/51cc6959-34a1-4cb7-a41e-83fdbdf4ff79) &nbsp;
-![python](https://github.com/Arisa-Kaewsuan/Arisa-Kaewsuan/assets/87797742/ada0ccf1-cdd1-43cb-a67c-bc45e173fbd6) &nbsp;
+![Java](https://github.com/Arisa-Kaewsuan/Arisa-Kaewsuan/assets/87797742/4c13dfbd-535e-4292-8429-67b57f28330a) &nbsp;&nbsp;&nbsp;
+![Python](https://github.com/Arisa-Kaewsuan/Arisa-Kaewsuan/assets/87797742/e79c2a8a-0d89-42a5-bf33-6a58a2c2f9b8) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+![MariaDB](https://github.com/Arisa-Kaewsuan/Arisa-Kaewsuan/assets/87797742/6133ec97-b402-4a49-a61c-9fa1ca36f50a) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+![Eclipse](https://github.com/Arisa-Kaewsuan/Arisa-Kaewsuan/assets/87797742/e563ff56-108f-435c-80b5-d81af611648b) &nbsp;&nbsp;&nbsp;
+![VSCode](https://github.com/Arisa-Kaewsuan/Arisa-Kaewsuan/assets/87797742/8e615512-999b-4602-90d3-808a559a385c) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+![Github](https://github.com/Arisa-Kaewsuan/Arisa-Kaewsuan/assets/87797742/7232a499-7236-4448-ae68-59642d1a58e6)
 
 <br/>
 <br/>
