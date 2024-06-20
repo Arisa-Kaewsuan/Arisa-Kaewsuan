@@ -35,15 +35,17 @@ I make this as a repository of knowledge that I can return to at any time. &nbsp
 
 &nbsp;
 
-![HTML](https://github.com/Arisa-Kaewsuan/Arisa-Kaewsuan/assets/87797742/540f3040-63ac-44ed-aa0f-983fc8f887de)
-![CSS](https://github.com/Arisa-Kaewsuan/Arisa-Kaewsuan/assets/87797742/1ae96dd8-3885-4256-b3de-56d05f4ac5cf) &nbsp;
-![js](https://github.com/Arisa-Kaewsuan/Arisa-Kaewsuan/assets/87797742/0010c509-73b0-4481-8d74-f1a866ca17f4) &nbsp;
-![TS](https://github.com/Arisa-Kaewsuan/Arisa-Kaewsuan/assets/87797742/645952fc-6646-4882-a8b5-1d08afd60245) &nbsp;
-![React JS](https://github.com/Arisa-Kaewsuan/Arisa-Kaewsuan/assets/87797742/70e22b0b-32a8-4cf9-8331-6ebbc54f1da7) &nbsp;
-![maxresdefault](https://github.com/Arisa-Kaewsuan/Arisa-Kaewsuan/assets/87797742/106d3bd9-fa5c-4fc2-8787-56fa9b3a6523) &nbsp;
-![Node JS](https://github.com/Arisa-Kaewsuan/Arisa-Kaewsuan/assets/87797742/3d713a67-7e98-40ff-a035-de10be8d4cec) &nbsp;
-![vscode](https://github.com/Arisa-Kaewsuan/Arisa-Kaewsuan/assets/87797742/497b7ca7-a0c7-4778-834a-bb8a818b761c) &nbsp;&nbsp;
-![django](https://github.com/Arisa-Kaewsuan/Arisa-Kaewsuan/assets/87797742/582688fb-8a6d-4fef-a544-3480c0b43f38)
+![HTML](https://github.com/Arisa-Kaewsuan/Arisa-Kaewsuan/assets/87797742/3634e650-ebb4-4b6a-b07b-55a9eee7c630)
+![CSS](https://github.com/Arisa-Kaewsuan/Arisa-Kaewsuan/assets/87797742/846d6b06-c1f9-4235-83b6-0780db1d819a)
+![Javascript](https://github.com/Arisa-Kaewsuan/Arisa-Kaewsuan/assets/87797742/190e39f6-3c1d-437b-b641-9ea1684e674f)
+![React JS](https://github.com/Arisa-Kaewsuan/Arisa-Kaewsuan/assets/87797742/59c1961f-0096-4557-9562-81d9af9b32a6)
+![Next JS](https://github.com/Arisa-Kaewsuan/Arisa-Kaewsuan/assets/87797742/d869810a-2b2a-4858-9e24-a7afd0c13805)
+![Tailwind](https://github.com/Arisa-Kaewsuan/Arisa-Kaewsuan/assets/87797742/4890cdf2-9fed-4570-ab1a-d66abb732a5f) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+![PHP](https://github.com/Arisa-Kaewsuan/Arisa-Kaewsuan/assets/87797742/0e08166c-d3f4-4644-a389-8178762c2e40)
+![Node JS](https://github.com/Arisa-Kaewsuan/Arisa-Kaewsuan/assets/87797742/b87a8cb3-ad31-4d18-9e40-1d21a4c3669c) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+![MariaDB](https://github.com/Arisa-Kaewsuan/Arisa-Kaewsuan/assets/87797742/4aba869a-c8f3-4d51-9c68-42e744457901) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+![VSCode](https://github.com/Arisa-Kaewsuan/Arisa-Kaewsuan/assets/87797742/7a2af9d9-d5ee-41ae-9394-3d24988888fc) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+![Github](https://github.com/Arisa-Kaewsuan/Arisa-Kaewsuan/assets/87797742/82b4abee-cc60-4a09-b76d-2322aebb1204)
 
 <br/>
 <br/>
