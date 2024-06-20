@@ -86,14 +86,7 @@ I make this as a repository of knowledge that I can return to at any time. &nbsp
 
 <br/>
 
-# 
 
-#### Finally, &nbsp;If &nbsp;you're &nbsp;interested &nbsp;in &nbsp;other &nbsp;tadbits &nbsp;about &nbsp;technology, &nbsp;I &nbsp;have &nbsp;a &nbsp;personal &nbsp;blog. &nbsp;You &nbsp;can &nbsp;visit &nbsp;here: [medium](https://medium.com/) &nbsp;There &nbsp;is &nbsp;some &nbsp;of &nbsp;contents &nbsp;that &nbsp;I &nbsp;am &nbsp;proud &nbsp;to &nbsp;present
-
-- &nbsp; History of the Internet
-- &nbsp; History of the Computer
-- &nbsp; How Computer Work ?
-- &nbsp; How Internet Work ?
     
 
 
